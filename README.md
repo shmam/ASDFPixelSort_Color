@@ -30,3 +30,17 @@ int blackValue = -13000000;
 int brigthnessValue = 140;
 int whiteValue = -10000000;
 ```
+## Sample Images
+
+All of these images were made using default values. 
+
+Original:
+![BLONDE no mutations](https://github.com/shmam/ASDFPixelSort_Color/blob/master/BLONDE.jpg?raw=true)
+
+Mode 0:
+![BLONDE some mutations](https://github.com/shmam/ASDFPixelSort_Color/blob/master/BLONDE_0.png?raw=true)
+Mode 1:
+![BLONDE some mutations ](https://github.com/shmam/ASDFPixelSort_Color/blob/master/BLONDE_1.png?raw=true)
+
+Mode 2:
+![BLONDE some mutations](https://github.com/shmam/ASDFPixelSort_Color/blob/master/BLONDE_2.png?raw=true
