@@ -1,5 +1,7 @@
 # ASDFPixelSort_Color
 
+Pixel sorting and image processing algorithm inspired heavily by @kimasendorf, but goes a step further and implements random color mutations to the pixel sorting. This further distorts the image, leading to different effects per usage.
+
 ## Instructions
 - Select the file name and the extension
 
