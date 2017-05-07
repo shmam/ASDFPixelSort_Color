@@ -43,4 +43,4 @@ Mode 1:
 ![BLONDE some mutations ](https://github.com/shmam/ASDFPixelSort_Color/blob/master/BLONDE_1.png?raw=true)
 
 Mode 2:
-![BLONDE some mutations](https://github.com/shmam/ASDFPixelSort_Color/blob/master/BLONDE_2.png?raw=true
+![BLONDE some mutations](https://github.com/shmam/ASDFPixelSort_Color/blob/master/BLONDE_2.png?raw=true)
